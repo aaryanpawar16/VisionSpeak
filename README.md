@@ -1,4 +1,4 @@
-# 👁️ AI Vision & Reader Assistant
+# 👁️ VisionSpeak
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MxlOW3HnhmLQzG0GWJCI7ebk4IwslfrW?usp=sharing)
 
