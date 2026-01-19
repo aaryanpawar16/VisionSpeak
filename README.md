@@ -36,3 +36,38 @@ To run this project on your local machine (Windows, Mac, or Linux), follow these
 ```bash
 git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
 cd REPO_NAME
+```
+
+###2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+###3. Run the Application
+```Bash
+python main.py
+```
+
+##🛠️ Tech Stack
+OCR Engine: PaddleOCR
+
+Vision Model: Hugging Face Transformers (BLIP)
+
+Audio Generation: Google Text-to-Speech (gTTS)
+
+Image Processing: OpenCV & PIL
+
+##📂 Project Structure
+├── main.py              # The main script (Logic for OCR, Captioning, and TTS)
+├── requirements.txt     # List of dependencies
+├── README.md            # Project documentation
+└── .gitignore           # Ignored files (images, cache)
+
+##🤝 Citation
+If you use this code or methodology in your research, please consider citing our paper:
+
+Proceedings of the International Conference on Smart Innovations in Artificial Intelligence and Machine Learning (ICSIAIML-25) > Atlantis Press, 2025.
+
+Available at: https://www.atlantis-press.com/proceedings/icsiaiml-25/126021228
+
+
