@@ -1,0 +1,8 @@
+paddlepaddle
+paddleocr
+transformers
+torch
+opencv-python
+gTTS
+numpy
+pillow
